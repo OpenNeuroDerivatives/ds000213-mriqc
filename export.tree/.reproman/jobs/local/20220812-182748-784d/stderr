@@ -1,0 +1,13 @@
+WARNING (08/13/22 11:09:31): LAUNCHER_WORKDIR variable not set. Using current directory.
+WARNING (08/13/22 11:09:32): Unable to start dynamic task service. Retrying...
+WARNING (08/13/22 11:09:39): Unable to start dynamic task service. Retrying...
+using /tmp/launcher.4717607.hostlist.GwnJHKc3 to get hosts
+starting job on c164-121
+starting job on c164-183
+starting job on c164-201
+starting job on c165-004
+starting job on c165-114
+starting job on c166-023
+Warning: Permanently added 'c166-023' (ED25519) to the list of known hosts.
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
